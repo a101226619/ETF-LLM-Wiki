@@ -1,0 +1,11 @@
+PASS 至少5份來源摘要
+PASS 每份來源有官方網址
+PASS 至少5個wiki主題
+PASS 12頁簡報
+PASS 每頁具來源ID
+PASS 基本HTML標記
+PASS 互動程式存在
+PASS 樣式檔存在
+PASS 測驗邏輯存在
+PASS 來源索引存在
+10/10 passed
